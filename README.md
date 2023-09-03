@@ -3,9 +3,6 @@ Tasks did as a part of ethnus-mern certification
 
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Task Table</title>
-</head>
 <body>
     <table border="1" cellpadding="10" cellspacing="0">
         <tr>
