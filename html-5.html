@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration Form</title>
+</head>
+<body>
+    <h2 align="center">Registration Form</h2>
+    <table border="1" cellpadding="10" cellspacing="0" align="center">
+        <form>
+            <tr>
+                <td>First Name:</td>
+                <td colspan="3"><input type="text" name="first_name" required></td>
+            </tr>
+            <tr>
+                <td>Last Name:</td>
+                <td colspan="3"><input type="text" name="last_name" required></td>
+            </tr>
+            <tr>
+                <td>Email:</td>
+                <td colspan="3"><input type="email" name="email" required></td>
+            </tr>
+            <tr>
+                <td>Password:</td>
+                <td colspan="3"><input type="password" name="password" required></td>
+            </tr>
+            <tr>
+                <td>Re-enter Password:</td>
+                <td colspan="3"><input type="password" name="repassword" required></td>
+            </tr>
+            <tr>
+                <td>Gender:</td>
+                <td>
+                    <input type="radio" id="male" name="gender" value="male" required>
+                    <label for="male">Male</label>
+                </td>
+                <td>
+                    <input type="radio" id="female" name="gender" value="female" required>
+                    <label for="female">Female</label>
+                </td>
+            </tr>
+            <tr>
+                <td>Age:</td>
+                <td colspan="3"><input type="number" name="age" required></td>
+            </tr>
+            <tr>
+                <td>Phone Number:</td>
+                <td colspan="3"><input type="tel" name="phone" required></td>
+            </tr>
+            <tr>
+                <td>Address:</td>
+                <td colspan="3"><textarea name="address" required></textarea></td>
+            </tr>
+            <tr>
+                <td>State:</td>
+                <td colspan="3"><input type="text" name="state" required></td>
+            </tr>
+            <tr>
+                <td>Country:</td>
+                <td colspan="3">
+                    <select name="country" required>
+                        <option value="">Choose your country</option>
+                        <option value="India">India</option>
+                        <option value="UK">UK</option>
+                        <option value="USA">USA</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Languages Known:</td>
+                <td colspan="3">
+                    <input type="checkbox" id="english" name="language" value="english">
+                    <label for="english">English</label>
+                    <input type="checkbox" id="kannada" name="language" value="kannada">
+                    <label for="kannada">Kannada</label>
+                    <input type="checkbox" id="hindi" name="language" value="hindi">
+                    <label for="hindi">Hindi</label>
+                    <input type="checkbox" id="telugu" name="language" value="telugu">
+                    <label for="telugu">Telugu</label>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <input type="checkbox" id="declaration" required>
+                    <label for="declaration">Hereby I declare all the given details are true.</label>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4" align="right">
+                Log in to the <a href="https://www.ethnus.com">ethnus</a> website
+                </td>
+            </tr>
+        </form>
+    </table>
+    <br>
+  <center><input type="submit" value="Register"></center>
+</body>
+</html>
+
+
+
