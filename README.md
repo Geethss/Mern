@@ -1,7 +1,6 @@
 # Mern
 Tasks did as a part of ethnus-mern certification
 
-<!DOCTYPE html>
 <html>
 <body>
     <table border="1" cellpadding="10" cellspacing="0">
