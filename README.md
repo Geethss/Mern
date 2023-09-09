@@ -24,6 +24,34 @@ Tasks did as a part of ethnus-mern certification
             <td>Task5</td>
             <td><a href="html-5.html">Task5</a></td>
         </tr>
+        <tr>
+            <td>Task6</td>
+            <td><a href="css-1.html">Task6</a></td>
+        </tr>
+        <tr>
+            <td>Task7</td>
+            <td><a href="css-2.html">Task7</a></td>
+        </tr>
+        <tr>
+            <td>Task8</td>
+            <td><a href="css-3.html">Task8</a></td>
+        </tr>
+        <tr>
+            <td>Task9</td>
+            <td><a href="css-4.html">Task9</a></td>
+        </tr>
+        <tr>
+            <td>Task10</td>
+            <td><a href="css-5.html">Task10</a></td>
+        </tr>
+        <tr>
+            <td>Task11</td>
+            <td><a href="css-6.html">Task11</a></td>
+        </tr>
+        <tr>
+            <td>Task12</td>
+            <td><a href="css-7.html">Task12</a></td>
+        </tr>
     </table>
 </body>
 </html>
