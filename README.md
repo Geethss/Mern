@@ -18,8 +18,7 @@ Tasks did as a part of ethnus-mern certification
             <td>Task12</td>
             <td><a href="bootstrap-1.html">Task12</a></td>
             <td>Task22</td>
-            <td><a href="javascript-5.html">Task22</a></td>
-             
+            <td><a href="javascript-5.html">Task22</a></td> 
         </tr>
         <tr>
             <td>Task3</td>
@@ -35,7 +34,7 @@ Tasks did as a part of ethnus-mern certification
             <td>Task14</td>
             <td><a href="bootstrap-3.html">Task14</a></td>
             <td>Task24</td>
-            <td><a href="Javascript-7.html">Task23</a></td>
+            <td><a href="Javascript-7.html">Task24</a></td>
             </tr>
         <tr>
             <td>Task5</td>
@@ -43,7 +42,7 @@ Tasks did as a part of ethnus-mern certification
             <td>Task15</td>
             <td><a href="bootstrap-4.html">Task15</a></td>
             <td>Task25</td>
-            <td><a href="Javascript-8.html">Task23</a></td>
+            <td><a href="Javascript-8.html">Task25</a></td>
         </tr>
         <tr>
             <td>Task6</td>
